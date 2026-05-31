@@ -498,7 +498,7 @@ MIT
 
 ## Author
 
-Joy Tarafder
+Rika Tasnim
 
 ## Acknowledgments
 
